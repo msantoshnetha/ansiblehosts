@@ -1,0 +1,20 @@
+---
+galaxy_info:
+  author: Santosh Kumar Myakala
+  description: An Ansible role that configures /etc/hosts
+  license: MIT
+
+  min_ansible_version: 1.2
+
+  platforms:
+    - name: Ubuntu
+      versions:
+        - all
+    - name: Ubuntu
+      versions:
+        - all
+
+  galaxy_tags:
+    - system
+
+dependencies: []
